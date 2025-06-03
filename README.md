@@ -44,13 +44,4 @@ HR__Dashboard/
 ├── package.json
 └── README.md
 
-## To run this project locally:
-git clone https://github.com/ManognaKanukurthi/HR__Dashboard.git
-cd HR__Dashboard
-npm install
-npm start
-Make sure you have Node.js and npm installed.
-
-Deployment
-The app is deployed using Vercel. Any changes pushed to the main branch are automatically deployed.
 
