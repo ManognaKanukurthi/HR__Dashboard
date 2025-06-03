@@ -2,10 +2,6 @@
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard)
 
-## 🚀 Live Demo
-
-🔗 [View Live Application](https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard)
-
 ## 📌 Repository
 
 This is the official repository for the **HR Dashboard** project:  
