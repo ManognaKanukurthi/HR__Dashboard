@@ -1,30 +1,56 @@
-# HR_Dashboard
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+# HR Dashboard
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/h4pvfVPPdzB)
 
-## Overview
+## 🚀 Live Demo
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+🔗 [View Live Application](https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard)
 
-## Deployment
+## 📌 Repository
 
-Your project is live at:
+This is the official repository for the **HR Dashboard** project:  
+🔗 [https://github.com/ManognaKanukurthi/HR__Dashboard](https://github.com/ManognaKanukurthi/HR__Dashboard)
 
-**[https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard](https://vercel.com/manognakanukurthis-projects/v0-hr-dashboard)**
+## 📋 Project Overview
 
-## Build your app
+The **HR Dashboard** is a responsive web application that provides a clean and intuitive interface to visualize key HR metrics. It helps HR teams monitor employee statistics, track performance, and make informed decisions using data-driven insights.
 
-Continue building your app on:
+This project was developed with modern frontend practices and deployed on Vercel for seamless performance and availability.
 
-**[https://v0.dev/chat/projects/h4pvfVPPdzB](https://v0.dev/chat/projects/h4pvfVPPdzB)**
+## 🛠️ Technologies Used
 
-## How It Works
+- **HTML5 & CSS3**
+- **JavaScript / TypeScript**
+- **React.js** (optional mention if you're using a framework)
+- **Tailwind CSS** or another CSS framework (if applicable)
+- **Vercel** – for deployment and hosting
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## ✨ Features
+
+- 📊 Dashboard view for key HR data and statistics
+- 📁 Organized components and responsive layout
+- 🔍 Insightful data representation for decision-making
+- 🌐 Deployed on a secure and fast cloud platform (Vercel)
+
+## 📁 Folder Structure
+
+```bash
+HR__Dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── App.js / App.tsx
+├── package.json
+└── README.md
+
+## To run this project locally:
+git clone https://github.com/ManognaKanukurthi/HR__Dashboard.git
+cd HR__Dashboard
+npm install
+npm start
+Make sure you have Node.js and npm installed.
+
+Deployment
+The app is deployed using Vercel. Any changes pushed to the main branch are automatically deployed.
+
